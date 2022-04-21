@@ -7,6 +7,7 @@
 前提：
 1.在Windows上安装Python
 下载地址：https://www.python.org/
+
 2.在CMD中输入
 ```
 pip install pyautogui

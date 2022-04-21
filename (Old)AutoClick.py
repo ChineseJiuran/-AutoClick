@@ -2,8 +2,7 @@ import os
 import pyautogui
 import time
 import keyboard
-print('打开腾讯会议——应用——签到')
-print('把鼠标移动到"点击签到"按钮位置，5秒后会获取坐标')
+print('把鼠标移动到需要的位置，5秒后会获取坐标')
 i = 1
 for i in range(6):
     print(i)

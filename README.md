@@ -18,6 +18,8 @@ pip install keyboard
 ```
 2.双击打开
 按操作进行
+
+
 Premise:
 1. Install Python on Windows
 Download address: https://www.python.org/

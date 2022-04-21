@@ -3,11 +3,7 @@
 把鼠标移动到需要的位置，5秒后会获取坐标
 按下空格停止
 就这么简单
-# -AutoClick
-Locate the mouse position and click the mouse position automatically
-Move the mouse to the desired position, and the coordinates will be obtained after 5 seconds
-Press space to stop
-It's that simple
+
 前提：
 1.在Windows上安装Python
 下载地址：https://www.python.org/
@@ -20,6 +16,11 @@ pip install keyboard
 按操作进行
 
 
+# -AutoClick
+Locate the mouse position and click the mouse position automatically
+Move the mouse to the desired position, and the coordinates will be obtained after 5 seconds
+Press space to stop
+It's that simple
 Premise:
 1. Install Python on Windows
 Download address: https://www.python.org/

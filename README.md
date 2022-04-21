@@ -4,7 +4,8 @@
 按下空格停止
 就这么简单
 
-前提：
+#前提：
+
 1.在Windows上安装Python
 下载地址：https://www.python.org/
 
@@ -15,6 +16,8 @@ pip install keyboard
 ```
 2.双击打开
 按操作进行
+
+原帖地址:https://github.com/TCNotRespond/TencentMeeting_Sign.Bypass
 
 注：在期间不要移动鼠标，会引起鼠标定位失败，报错而自动退出！
 
@@ -34,8 +37,6 @@ pip install keyboard
 ```
 2. Double click to open
 Follow the operation
-
-原帖地址:https://github.com/TCNotRespond/TencentMeeting_Sign.Bypass
 
 
 Original publishment:https://github.com/TCNotRespond/TencentMeeting_Sign.Bypass

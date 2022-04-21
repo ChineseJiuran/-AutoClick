@@ -4,7 +4,7 @@
 按下空格停止
 就这么简单
 
-#前提：
+前提：
 
 1.在Windows上安装Python
 下载地址：https://www.python.org/

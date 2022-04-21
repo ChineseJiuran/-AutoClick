@@ -31,3 +31,6 @@ pip install keyboard
 ```
 2. Double click to open
 Follow the operation
+
+原帖地址:https://github.com/TCNotRespond/TencentMeeting_Sign.Bypass
+Original publishment:https://github.com/TCNotRespond/TencentMeeting_Sign.Bypass

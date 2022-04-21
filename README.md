@@ -1,4 +1,4 @@
-# -AutoClick
+# -AutoClick(Chinese)
 定位鼠标位置，自动点击鼠标位置
 把鼠标移动到需要的位置，5秒后会获取坐标
 按下空格停止
@@ -16,7 +16,7 @@ pip install keyboard
 按操作进行
 
 
-# -AutoClick
+# -AutoClick(English)
 Locate the mouse position and click the mouse position automatically
 Move the mouse to the desired position, and the coordinates will be obtained after 5 seconds
 Press space to stop

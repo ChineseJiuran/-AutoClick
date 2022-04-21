@@ -21,3 +21,8 @@ while True:
     if flag == True:
         flag = False
         os._exit(0)
+#ChineseJiuran原创
+#ChineseJiuran原创
+#ChineseJiuran原创
+#ChineseJiuran原创
+#ChineseJiuran原创

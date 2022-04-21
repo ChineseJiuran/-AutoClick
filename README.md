@@ -17,7 +17,6 @@ pip install keyboard
 2.双击打开
 按操作进行
 
-原帖地址:https://github.com/TCNotRespond/TencentMeeting_Sign.Bypass
 
 注：在期间不要移动鼠标，会引起鼠标定位失败，报错而自动退出！
 
@@ -38,7 +37,5 @@ pip install keyboard
 2. Double click to open
 Follow the operation
 
-
-Original publishment:https://github.com/TCNotRespond/TencentMeeting_Sign.Bypass
 
 Note: do not move the mouse during this period, which will cause mouse positioning failure, error report and automatic exit!
